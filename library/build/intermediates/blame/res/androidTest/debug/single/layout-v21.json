@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Android project scripts\\MyNews\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\U\\.android\\build-cache\\9b807d46ffc0f4ac41e26aa61e35838d420ad7ea\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android project scripts\\MyNews\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\U\\.android\\build-cache\\9b807d46ffc0f4ac41e26aa61e35838d420ad7ea\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android project scripts\\MyNews\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\U\\.android\\build-cache\\9b807d46ffc0f4ac41e26aa61e35838d420ad7ea\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android project scripts\\MyNews\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\exomedia_default_controls_leanback.xml",
+        "source": "E:\\Android project scripts\\MyNews\\library\\build\\intermediates\\bundles\\debug\\res\\layout-v21\\exomedia_default_controls_leanback.xml"
+    },
+    {
+        "merged": "E:\\Android project scripts\\MyNews\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\U\\.android\\build-cache\\9b807d46ffc0f4ac41e26aa61e35838d420ad7ea\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
